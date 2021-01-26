@@ -184,7 +184,12 @@ html.dark-mode .mp4{
 html.dark-mode .hr{
     filter: invert(100%);
 }
-
+html.dark-mode .darkfa{
+    filter: invert(100%);
+}
+html.dark-mode .comment-content{
+    filter: invert(100%);
+}
 #header {
 
 				margin:-1px;
